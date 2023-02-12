@@ -1,0 +1,601 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type  content="text/html; charset=gb2312" ><meta name=ProgId  content=Word.Document ><meta name=Generator  content="Microsoft Word 14" ><meta name=Originator  content="Microsoft Word 14" ><title></title><!--[if gte mso 9]><xml><o:DocumentProperties><o:Author>小连连</o:Author><o:LastAuthor>文胆良心查干</o:LastAuthor><o:Revision>1</o:Revision><o:Pages>1</o:Pages><o:Lines>1</o:Lines><o:Paragraphs>1</o:Paragraphs></o:DocumentProperties><o:CustomDocumentProperties><o:KSOProductBuildVer dt:dt="string" >2052-11.1.0.11294</o:KSOProductBuildVer><o:ICV dt:dt="string" >71280559AF664ADA9ACA8F5AE44A2927</o:ICV></o:CustomDocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><![endif]--><!--[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:View>Web</w:View><w:Compatibility><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Normal" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="header" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footer" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="caption" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of figures" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope address" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope return" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="line number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="page number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of authorities" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="macro" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toa heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Title" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Closing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Signature" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  UnhideWhenUsed="false"  Name="Default Paragraph Font" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Message Header" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Subtitle" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Salutation" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Date" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Note Heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Block Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Hyperlink" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="FollowedHyperlink" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Strong" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Emphasis" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Document Map" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Plain Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="E-mail Signature" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal (Web)" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Acronym" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Address" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Cite" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Code" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Definition" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Keyboard" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Preformatted" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Sample" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Typewriter" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Variable" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  UnhideWhenUsed="false"  Name="Normal Table" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation subject" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / a / i" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / 1.1 / 1.1.1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Article / Section" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Contemporary" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Elegant" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Professional" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Subtle 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Subtle 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Balloon Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Theme" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Placeholder Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No Spacing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Paragraph" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Quote" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Intense Quote" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 6" ></w:LsdException>
+</w:LatentStyles></xml><![endif]--><style>
+@font-face{
+font-family:"Times New Roman";
+}
+
+@font-face{
+font-family:"宋体";
+}
+
+@font-face{
+font-family:"Wingdings";
+}
+
+@font-face{
+font-family:"黑体";
+}
+
+p.MsoNormal{
+mso-style-name:正文;
+mso-style-parent:"";
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+h1{
+mso-style-name:"标题 1";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:24.0000pt;
+mso-font-kerning:22.0000pt;
+}
+
+h2{
+mso-style-name:"标题 2";
+mso-style-noshow:yes;
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:18.0000pt;
+}
+
+h3{
+mso-style-name:"标题 3";
+mso-style-noshow:yes;
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:13.5000pt;
+}
+
+h4{
+mso-style-name:"标题 4";
+mso-style-noshow:yes;
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:12.0000pt;
+}
+
+h5{
+mso-style-name:"标题 5";
+mso-style-noshow:yes;
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:10.0000pt;
+}
+
+h6{
+mso-style-name:"标题 6";
+mso-style-noshow:yes;
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:7.5000pt;
+}
+
+span.10{
+font-family:'Times New Roman';
+}
+
+p.pre{
+mso-style-name:"HTML 预设格式";
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.p{
+mso-style-name:"普通\(网站\)";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+span.msoIns{
+mso-style-type:export-only;
+mso-style-name:"";
+text-decoration:underline;
+text-underline:single;
+color:blue;
+}
+
+span.msoDel{
+mso-style-type:export-only;
+mso-style-name:"";
+text-decoration:line-through;
+color:red;
+}
+
+table.MsoNormalTable{
+mso-style-name:普通表格;
+mso-style-parent:"";
+mso-style-noshow:yes;
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt;
+mso-para-margin:0pt;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-family:'Times New Roman';
+font-size:10.0000pt;
+mso-ansi-language:#0400;
+mso-fareast-language:#0400;
+mso-bidi-language:#0400;
+}
+@page{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}@page Section0{
+size:595.3000pt 841.9500pt;
+mso-header-margin:42.5500pt;
+mso-footer-margin:49.6000pt;
+}
+div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;" ><!--StartFragment--><div class="Section0" ><p class=MsoNormal  align=center  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;mso-pagination:widow-orphan;text-align:center;
+line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:黑体;mso-hansi-font-family:宋体;
+font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><font face="黑体" >广西壮族自治区桂林市七星区人民法院</font></span><span style="mso-spacerun:'yes';font-family:黑体;mso-hansi-font-family:宋体;
+font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=center  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;mso-pagination:widow-orphan;text-align:center;
+line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:黑体;mso-hansi-font-family:宋体;
+font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><font face="黑体" >行</font> 政 判 决 书</span><span style="mso-spacerun:'yes';font-family:黑体;mso-hansi-font-family:宋体;
+font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=right  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;mso-pagination:widow-orphan;text-align:right;
+line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>2013）星行初字第3号</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >原告桂林凌风高级中学，住所地桂林市中山北路</font>24号。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >法定代表人陈光耀，校长。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >委托代理人高强，广西桂山律师事务所律师。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >被告桂林市规划局，住所地桂林市临桂路</font>12号。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >法定代表人周彦，局长。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >委托代理人：韩苏静子，该局员工。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >第三人桂林市市政工程管理处，住所地桂林市交通路</font>21号，组织机构代码：49866843-7。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >法定代表人秦红，主任。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >委托代理人黄翊，广西丛中建律师事务所律师。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >第三人桂林市七星区穿山街道办事处，住所地桂林市穿山路</font>64号，组织机构代码：K31XX11X-X。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >法定代表人林弘，主任。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >委托代理人王革新，桂林市七星区街道办事处综治副主任。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >委托代理人龙海，桂林市七星区街道办事处法律援助中心主任。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >原告桂林凌风高级中学不服被告桂林市规划局行政许可决定纠纷一案，于</font>2013年11月1日向本院提起行政诉讼，本院受理后，于2013年11月5日向被告送达了起诉状副本及应诉通知书，后原告于2013年11月15日申请追加桂林市市政工程管理处（以下简称市政管理处）、桂林市七星区穿山街道办事处（以下简称穿山街道办）为第三人参加诉讼，本院予以准许，并分别于2013年11月18日、21日向第三人送达应诉材料。本院依法组成合议庭，分别于2013年12月13日、2014年5月20日公开开庭审理了本案。原告的委托代理人高强、被告的委托代理人韩苏静子、第三人市政管理处的委托代理人黄翊、穿山街道办的委托代理人龙海到庭参加诉讼。本案现已审理终结。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >桂林市规划建设委员会于</font>2009年6月9日作出市规建管（2009）194号行政许可，被告对该许可进行了三次调整，为此先后于2010年7月6日、2011年6月1日、2011年9月9日作出市规管（2010）181号、市规建管（2011）114号、市规建管（2011）204号行政许可，被告认为上述许可作出的前提系因原告取得的《建设用地规划许可证》及其附件已自行失效，且按照《桂林市城区中小学教育设施布局调整规划（2007—2015）》，施家园小学已取消。依桂林市市政公用事业管理局《关于农房拆迁回建选址的申请》，根据市发改委于2008年9月10日下发的《关于穿山桥系统改造工程项目建议书的批复》（市发改投资字（2008）105号），及根据《中华人民共和国城乡规划法》第三十六条、第三十七条的规定，被告先后作出了上述许可。被告于2013年11月14日向本院提供了作出被诉具体行政行为的证据：1、《关于桂林凌风高级中学新建施家园小学的建设用地规划定点通知书》（市规管字（2002）8号）、《关于延期市规管字（2002）86号建设用地规划定点通知书时限的通知》（市规管字（2003）77号）、《关于申请修改新建施家园小学规划定点的报告》、《关于桂林凌风高中新建施家园小学的建设用地规划定点通知书》（市规管字（2003）292号）、《关于调整市规管字（2003）292号文的规划定点通知书》（市建规管（2004）85号）、《关于延长市建规管（2004）85号文有效期限的通知》（市建规管（2006）237号）、《关于延长市建规管（2004）85号文有效期限的批复》（市建规管（2007）268号），证明被告依据法定程序，依法审批了原告兴建施家园小学的用地规划申请，并且在2006年、2007年两次延期该项目的规划定点许可；2、2008年高新分局收文本，证明原告没有在2008年申请延期施家园小学用地审批的材料，原告直到2008年5月都没有办妥用地手续和延期手续，根据《广西壮族自治区实施&lt;；中华人民共和国城市规划法办法&gt;；（修正）》，原告的审批文件已经自动失效；3、《关于农房拆迁建选址的申请》、《关于穿山桥系统改造工程项目建议书的批复》（市发改投资字（2008）105号）、《桂林市城区中小学教育设施布局调整规划（2007-2015）》、《关于穿山桥改造工程项目农民搬迁安置及发展用地的选址意见书》（市规建选（2009）16号）、《关于桂林市穿山桥系统改造工程农民回建安置综合楼建设用地规划定点的批复》（市规建管（2009）194号）、《关于桂林市市政工程管理处调整市规建管（2009）194号穿山桥系统改造工程农民回建安置2#楼规划定点的批复》（市规管（2010）181号）、《关于桂林市穿山桥改造工程农民回建安置房及施家园9组集体经济发展用地建设用地规划定点的批复》（市规管（2011）114号）、《关于调整穿山桥系统改造工程回建安置房项目业主的通知》（市规管（2011）204号），证明被告依据《中华人民共和国城乡规划法》第三十六条、第三十七条的相关规定核发、审批穿山桥系统改造工程、农民回建安置的规划申请；4、《2009年规划选址意见书发放登记表》、《2009年规划定点批复发放登记表》，证明被告在核发市规建管（2009）194号、市规建选（2009）16号文时都已经抄送给原告，原告在法定期限内并没有提出异议、申请复议，原告现在才提起诉讼已经过了诉讼时效期间；5、《桂林市人民政府常务会议决定事项通知》（第101号）、《关于桂林市市政公用事业管理局穿山桥系统改造工程建设工程规划顶点的批复》（市建规管（2008）343号），证明穿山桥系统改造工程启动。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >原告桂林凌风高级中学诉称：</font>2002年元月22日，原告就新建施家园小学向桂林市计委和桂林市教育局申请立项。2月4日，桂林市教育局作出“凌风高中是我局批办的社会力量办学学校，根据国务院社会力量办学条例第二十七条规定，教育机构建设需要使用土地的，县级以上地方各级人民政府应当根据国家有关规定和实际情况，纳入规划，按照公益事业规划用地办理，并可以优先安排。请有关部门予以支持”的批复意见。2月10日，桂林市发展计划委员会作出《关于施家园小学立项的批复》（市计社字（2002）5号），同意原告兴建施家园小学工程立项。3月6日，被告分立前的前身桂林市建设与规划委员会（以下简称“桂林市建规委”）向原告下达《关于桂林凌风高级中学新建施家园小学的建设用地规划定点通知书》（市规管字（2002）86号），同意原告在施家园路以东，按市规划设计院设计的20O1—153号“施家园小学校园规划总平面”小学用地规划位置，新建施家园小学。2003年4月29日，桂林市国土资源局向原告下达《关于桂林凌风高级中学新建施家园小学建设用地预审的复函》（市国土资函（2003）12号），同意通过用地预审。6月5日，桂林市建规委再次下达《关于桂林凌风高中新建施家园小学的建设用地规划定点通知书》（市规管字（2003）292号），同意原告新建施家园小学。6月17日，依照《桂林市征用城市区域内集体土地暂行规定》（市政（2002）61号）第三条：“征用土地必须符合本市土地利用总体规划，城市建设总体规划，市土地行政主管部门主管征用土地的审查报批工作下设征地机构，负责征用市辖区内土地的具体业务工作，建设用地单位应委托征地机构征用土地，其它单位和个人不得直接征用土地”的规定，原告与桂林市国土资源局下设的征地机构：桂林市地产公司土地征用处签订了《委托征地协议书》，并按规定交纳了征地管理费、征地劳务费、耕地开垦费、鱼塘菜地开发基金、耕地占用税、新增建设用地有偿使用费等费用。10月30日，自治区人民政府下达《关于桂林市2003年第六批次城市建设用地的批复》（桂政土批函（2003）265号），批准桂林市征用集体土地38.8337公顷，用于2003年第六批城市建设用地。原告施家园小学建设用地指标处于该批次城市建设用地的第一项。12月26日，桂林市人民政府发布《征用土地公告》，启动原告的施家园小学建设用地征用工作。2004年3月9日，桂林市建规委下达《关于调整市规管字（2003）292号文的规划定点通知书》（市建规管（2004）85号），对原告施家园小学建设用地规划定点进行了调整，调整后的建筑面积为13086平方米。由于七星区人民政府的阻挠和桂林市地产公司土地征用处怠于履行职责，征地工作迟迟无法完成，致使原告不得不一次又一次向桂林市建规委申请延长市建规管（2004）85号规划定点文的有效期限。2008年3月，原告再一次向桂林市建规委申请延长市建规管（2004）85号规划定点文的有效期限，但直到2011年10月，桂林市建规委没有批复延期与否。2009年6月9日，桂林市建规委下发市规建管（2009）194号文，将该地块变更规划定点给桂林市政工程管理处，用于建设农民回建安置综合楼。8月27日，桂林市政府就穿山桥系统改造工程项目建设问题，召集被告、国土局、七星区政府等部门，在没有调查核实，也没有通知原告参加，听取原告意见的情况下，偏听被告的不实之词，得出：“市规建委下达给凌风中学的定点批复有效期经延期后至2007年5月，其规划定点行政许可已失效多年”错误论断，从而错将该原告规划用地划给了穿山桥系统改造工程指挥部。2010年7月6日、2011年6月1日和9月9日，被告分别下发市规管（2010）181号文、市规管（2011）114号文和市规管（2011）204号文，对市规建管（2009）194号文作了三次调整。2011年10月28日，被告通知原告参加建设行政许可听证会，至此，原告才得知被告变更原告施家园小学建设用地的规划定点。听证会后，被告无视原告的异议，于2011年11月11日和30日，分别下发建设用地规划许可证（地字第4503012011O0046号）和建设工程规划许可证（建字第45O301201100491号），仍然将原规划定点给原告施家园小学的建设用地，许可给桂林市政工程管理处等三家单位，用于建设穿山桥系统改造工程回建安置房2#楼。原告认为，根据《中华人民共和国行政许可法》第五十条第二款的规定，原告于2008年3月申请市建规管（2004）85号规划定点文有效期限延期，桂林市建规委应当于2O08年6月l1日前作出是否准予延续的决定，其逾期未作决定，应视为准予延续，市建规管（2004）85号规划定点文继续有效。被告作为桂林市建规委分立后承接规划职责、职能的单位，在未经原告同意的条件下，将施家园小学建设用地变更规划定点给他人使用，严重侵害了原告的合法权益，应当依法予以撤销。因此，依照《中华人民共和国行政诉讼法》第十一条第一款第八项的规定，原告诉至法院，请求撤销市规建管（2009）194号、市规管（2010）181号、市规管（2011）114号和市规管（2011）204号规划定点许可，恢复市规管（2002）86号、市规管字（2003）292号和市规建管（2004）85号的规划定点许可。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >原告就上述起诉所称的事实及诉讼请求提供了如下证据：</font>1、《关于新建施家园小学的申请报告》复印件，证明2002年元月22日，原告就新建施家园小学向桂林市计委和桂林市教育局申请立项，2月4日，桂林市教育局同意原告申请；2、《关于施家园小学立项的批复》（市计社字（2002）5号）复印件，证明2002年2月10日，桂林市发展计划委员会同意原告新建施家园小学工程立项；3、《关于凌风高级中学新建施家园小学的建设用地规划定点通知书》（市规管字（2002）86号），证明2002年3月6日，桂林市建规委同意原告新建施家园小学建设用地规划定点；4、《关于桂林凌风高级中学新建施家园小学建设用地预审的复函》（市国土资函（2003）12号）复印件，证明2003年4月29日，桂林市国土局同意通过原告新建施家园小学建设用地的预审；5、《关于桂林凌风高级中学新建施家园小学的建设用地规划定点通知书》（市规管字（2003）292号），证明2003年6月5日，桂林市建规委同意原告施家园小区内，按市规划设计院规划位置及要求新建施家园小学；6、《委托书》（征（2003）10号），7、《委托征地协议书》复印件，证明2003年6月17日，原告委托被告桂林市地产公司土地征用处办理新建施家园小学项目征用土地手续，并缴纳征地费用；8、缴费收据，证明原告向桂林市地产公司等部门缴纳了征地管理费、征地劳务费、耕地开垦费等费用100多万元；9、《桂林市人民政府征用土地公告》复印件，证明2003年12月26日，桂林市政府启动原告施家园小学建设用地征用工作；10、《关于调整市规建管字（2003）292号文的规划定点通知书》（市建规管（2004）85号），证明2004年3月9日，桂林市规建委对原告施家园小学建设用地规划定点进行了调整，调整后的建筑面积为13086平方米；11、《关于七星区人民政府要求取消凌风小学规划用地有关问题复函》（市建规办（2005）49号）复印件，12、《关于延长市建规管（2004）85号文有效期限的批复》（市建规管（2006）237号），13、《关于延长市建规管（2004）85号文有效期限的批复》（市建规管（2007）268号），证明由于七星区人民政府的阻挠和桂林市地产公司土地征用处怠于履行职责，征地工作迟迟无法完成，致使原告不得不一次又一次申请延长市建规管（2004）85号规划定点文的有效期限；14、《关于桂林市穿山桥改造农民回建安置综合楼建设用地规划定点的批复》（市规管建（2009）194号），证明2009年6月9日，桂林市建规委将原告施家园小学建设用地变更给第三人市政管理处，用于建设农民回建安置综合楼；15、《关于穿山桥系统改造工程农民回建安置地等有关问题会议纪要》（市政办阅（2009）50号）复印件，证明2009年8月27日，桂林市政府召开会议，在不通知原告到场的情况下，就原告施家园小学规划定点用地、穿山桥系统改造工程农民回建安置等问题作出决议；16、《关于调整市规建管（2009）194号文农民回建安置2#楼规划定点的批复》（市规管（2010）181号），证明2010年7月6日，被告对市规建管（2009）194号穿山桥系统改造工程农民回建安置2#楼的规划点进行了调整；17、《关于桂林市穿山桥改造工程农民回建安置房及施家园9组集体经济发展用地建设用地规划定点的批复》（市规管（2011）114号），证明2011年6月1日，被告对桂林市穿山桥改造工程农民回建安置房以及施家园9组集体经济发展用地、建设用地，提出具体规划设计要求；18、《关于调整穿山桥系统改造工程回建安置房项目业主的通知》（市规管（2011）204号），证明2011年9月9日，被告将穿山桥系统改造工程回建安置项目业主由桂林市七星区穿山街道办事处，调整为桂林市市政工程管理处等三家单位；19、《建设行政许可听证会通知书》，证明2011年10月28号，被告通知原告参加建设行政许可听证会，原告才得知被告即将变更原告施家园小学建设用地的规划定点；20、建设用地规划许可证（地字第450301201100046号）复印件，21、建设工程规划许可证（建字第450301201100491号）复印件，证明2011年11月8日听证会后，被告无视原告的异议，仍然将原来规划定点给原告施家园小学的建设用地，许可给桂林市市政工程管理处等三家单位，用于建设穿山桥系统改造工程回建安置房2#楼；22、桂林市商业银行进账单，证明原告向广西国土资源厅缴纳了375090元。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >根据原告的申请，本院向桂林市教育局调查市小学布局调整规划情况，并获复函及相关附件一份，复函载明：</font>1、2007年编制布局调整规划时，新建施家园小学规划未得到实施，主要原因是1998年小学下放城区后，城区教育投入不足；2、2007年12月，由桂林市发展和改革委员会负责，会同桂林市教育局、桂林市建设与规划委员会、桂林市投资咨询中心、桂林市城市规划设计研究院联合编制了《桂林市城区中小学教育设施布局调整规划（2007-2015）》，2008年8月桂林市人民政府批复实施；此规划提出高新七星区新建完全小学5所，但未将新建施家园小学继续列入。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >被告桂林市规划局辩称：一、《建设用地规划许可证》（编号（</font>2003）158号）及其附件市规管字（2003）292号、市建规管（2004）85号文已自行失效：原桂林市建设与规划委员会（下称“市建规委”）于2002年3月11日核发《建设用地规划许可证》（编号（2002）55号），于2002年3月6日核发其附件《关于桂林凌风高级中学新建施家园小学的建设用地规划定点通知书》（市规管字（2002）86号），同意原告在施家园路以东兴建施家园小学。原市建规委于2003年2月26日依原告申请核发了《关于延期市规管字［2O02］86号建设用地规划定点通知书时限的通知》（市规管字（2003）77号），同意将市规管字（2002）86号文延期使用一年（从2003年3月1日到2004年3月1日止）。2003年5月12日原告向原市建规委申请修改市规管字（2003）77号规划定点文，原市建规委于2003年6月10日核发《建设用地规划许可证》（编号（2003）158号），于2003年6月5日核发其附件《关于桂林凌风高中新建施家园小学的建设用地规划定点通知书》（市规管字（2003）292号）。原市建规委于2004年3月9日依原告申请核发了《关于调整市规管字（2003）292号文的规划定点通知书》（市建规管（2004）85号）。该项目因征地拆迁原因，一直未办妥用地手续，市建规委分别于2006年5月、2007年6月为原告办理了规划定点的延期手续，延长使用期限至2008年5月止。原告直到2008年5月都未办妥用地手续，又未办理延期手续，根据《广西壮族自治区实施&lt;；中华人民共和国城市规划法&gt;；办法（修正）》第三十六条第三款“建设单位或者个人在取得建设用地规划许可证后一年内未办妥用地手续，或者取得建设工程规划许可证后一年内未开工，又不办理延期手续的，建设用地规划许可证或者建设工程规划许可证自行失效”之规定，凌风高中取得的《建设用地规划许可证》（编号（2003）158号）及其附件市规管字（2003）292号、市建规管（2004）85号文已自行失效。二、市规建管（2009）194号、市规建管（2010）181号、市规建管（2011）114号、市规建管（2011）204号规划定点许可合法有效：因原告取得的《建设用地规划许可证》及其附件已自行失效，且按照《桂林市城区中小学教育设施布局调整规划（2007—2015）》，施家园小学已取消。依桂林市市政公用事业管理局《关于农房拆迁回建选址的申请》，根据市发改委于2008年9月10日下发的《关于穿山桥系统改造工程项目建议书的批复》（市发改投资字（2008）105号），原市建规委核发了穿山桥改造工程农民安置项目的选址意见书及规划定点批复（市规建选（2009）16号、市规建管（2009）194号），而后桂林市规划局又对市规建管（2009）194号文进行了三次调整（文号分别为：市规管（2010）181号、市规建管（2011）114号、市规建管（2011）204号），符合《中华人民共和国城乡规划法》第三十六条、第三十七条的规定，故市规建管（2009）194号、市规建管（2010）181号、市规建管（2011）114号、市规建管（2011）204号规划定点是合法有效的文件。三、应该起诉已过诉讼时效：在原市建规委核发《关于穿山桥改造工程项目农民搬迁安置及发展用地的选址意见书》（市规建选（2009）16号）和《关于桂林市穿山桥系统改造工程农民回建安置综合楼建设用地规划定点的批复》（市规建管（2009）194号）时，都抄送给了原告，而原告在收到以上两份文件后并未提出异议，也未在法定期限内提起行政复议和行政诉讼。根据《中华人民共和国行政诉讼法》第三十九条“公民、法人或者其他组织直接向人民法院提起诉讼的，应当在知道作出具体行政行为之日起三个月内提出。法律另有规定的除外”之规定，原告直至现在才提起行政诉讼，已超过诉讼期限，根据《最高人民法院关于执行&lt;；中华人民共和国行政诉讼法&gt;；若干问题的解释》第四十四条“有下列情形之一的，应当裁定不予受理；已经受理的，裁定驳回起诉：……（六）起诉超过法定期限且无正当理由的”之规定，据此应当裁定驳回原告起诉。综上所述，被告核发市规建管（2009）194号、市规建管（2010）181号、市规建管（2011）114号、市规建管（2011）204号文合法有效，请予以维持。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >第三人市政管理处述称：我处意见与被告的答辩意见一致，并认为原告并无证据证明其就市规建管（</font>2004）85号文在2008年5月向被告提交了延期申请，被告在该许可失效后就涉案用地正常进行规划合法有效。第三人市政管理处就上述意见提供了如下证据：1、（2012）星民初第1343号民事判决书、（2013）桂市民一终字第220号民事判决书，证明第三人的征地合法性已经经过人民法院确认，涉案土地归第三人所有；2、《关于穿山桥系统改造工程项目建议书的批复》（市发改投资字（2008）105号）复印件、《关于桂林市市政公用事业管理局穿山桥系统改造工程建设工程规划顶点的批复》（市建规管（2008）343号）复印件、《关于申请穿山桥系统改造工程项目立项的函》（市政公用函（2008）73号）、穿山桥规划平面图、穿山桥整体装饰效果图，证明穿山桥改造工程的批复时间晚于原告的市建规管（2004）85号规划定点文的最后有效期限。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >第三人穿山街道办述称的意见与第三人市政管理处的述称意见一致。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >经过开庭质证，原告对被告提供的证据</font>1无异议；对证据2认为不能证明原告未向被告提出延期申请，此证中的收文登记都是被告单位自行制作的，没有发文的单位；对证据3的真实性无异议，对合法性有异议，认为2009年1月7日桂林市市政公用事业管理局向被告提交的《关于农房拆迁建选址的申请》中涉及的用地还是规划给原告使用的，市政管理局的申请不恰当；《关于穿山桥系统改造工程项目建议书的批复》（市发改投资字（2008）105号）与本案无关；认为《桂林市城区中小学教育设施布局调整规划（2007-2015）》不合法，此规划作出时，讼争地块仍归原告使用，因为并没有撤销或合并土地的文件；认为《关于桂林市穿山桥系统改造工程农民回建安置综合楼建设用地规划定点的批复》（市规建管（2009）194号）、《关于桂林市市政工程管理处调整市规建管（2009）194号穿山桥系统改造工程农民回建安置2#楼规划定点的批复》（市规管（2010）181号）上虽写了抄送原告，但在被告的发文本未显示送达，原告不知有此文件也无法提出异议；认为《关于桂林市穿山桥改造工程农民回建安置房及施家园9组集体经济发展用地建设用地规划定点的批复》（市规管（2011）114号）、《关于调整穿山桥系统改造工程回建安置房项目业主的通知》（市规管（2011）204号）未送达原告，原告对被告变更规划不知情，其变更程序是否合法无法证明；对证据4的真实性无异议，但领文人并非原告的员工，文件送达给了第三人市政管理处，未送达给原告；对证据5的真实性无异议，但认为此证恰证明了原告申请延期市建规管（2004）85号规划定点文未获批准的原因在于被告已对讼争用地有其他安排。第三人市政管理处、穿山街道办对被告提交的证据1-4均无异议；对证据5的真实性无异议，认为此证证明了穿山桥工程开始的时间，另外农民回迁安置房2009年第二次选址后才选定讼争用地。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >被告对原告提交的证据</font>1-18的真实性、合法性均无异议，但认为被告依法作出了行政行为；对证据19-21的真实性、合法性均无异议，认为被告根据政府信息公开的要求，依法在网上公布了许可审批的所有规划文书，原告可上网查询，但原告未提出异议，已经过了诉讼时效；对证据22的真实性无异议，但认为此交款凭证不能证明原告完成了征地手续。第三人市政管理处同意被告对证据1-22的质证意见，认为原告所有证据都没有显示在2008年5月份提交了延期的申请。第三人穿山街道办同意被告对证据1-22的质证意见，认为原告于2011年11月28日参加听证会，已经知道讼争土地被重新规划，但未及时提出异议，其起诉已过了诉讼时效。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >原告对本院自桂林市教育局处取得的复函及附件的真实性无异议，认为施家园小学的规划取消，但原告直至起诉后才知情，且市建规管（</font>2004）85号规划定点文仍然有效。被告对此复函及附件的真实性无异议，认为正是原告在2008年5月前未就85号规划定点文申请延期，且施家园小学规划已经取消，故被告依法对讼争用地重新进行规划。第三人市政管理处对此复函及附件的真实性无异议，认为原告正是因为施家园小学规划取消，才未就85号定点文申请延期。第三人穿山街道办同意被告及第三人市政管理处的质证意见。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >经庭审质证，本院对以下证据作如下确认：被告提供的证据包括：</font>1、《关于桂林凌风高级中学新建施家园小学的建设用地规划定点通知书》（市规管字（2002）86号）、《关于延期市规管字（2002）86号建设用地规划定点通知书时限的通知》（市规管字（2003）77号）、《关于申请修改新建施家园小学规划定点的报告》、《关于桂林凌风高中新建施家园小学的建设用地规划定点通知书》（市规管字（2003）292号）、《关于调整市规管字（2003）292号文的规划定点通知书》（市建规管（2004）85号）、《关于延长市建规管（2004）85号文有效期限的通知》（市建规管（2006）237号）、《关于延长市建规管（2004）85号文有效期限的批复》（市建规管（2007）268号），证明被告依据法定程序，依法审批了原告兴建施家园小学的用地规划申请，并且从2006年-2007年两次延期该项目的规划定点许可；2、2008年高新分局收文本，证明被告处并没有原告于2008年向其申请延长市建规管（2004）85号文有效期限的记录；3、《关于农房拆迁建选址的申请》、《关于穿山桥系统改造工程项目建议书的批复》（市发改投资字（2008）105号）、《桂林市城区中小学教育设施布局调整规划（2007-2015）》、《关于穿山桥改造工程项目农民搬迁安置及发展用地的选址意见书》（市规建选（2009）16号）、《关于桂林市穿山桥系统改造工程农民回建安置综合楼建设用地规划定点的批复》（市规建管（2009）194号）、《关于桂林市市政工程管理处调整市规建管（2009）194号穿山桥系统改造工程农民回建安置2#楼规划定点的批复》（市规管（2010）181号）、《关于桂林市穿山桥改造工程农民回建安置房及施家园9组集体经济发展用地建设用地规划定点的批复》（市规管（2011）114号）、《关于调整穿山桥系统改造工程回建安置房项目业主的通知》（市规管（2011）204号），以上证据证明：（1）被告核发、审批穿山桥改造工程项目农民搬迁安置及发展用地的规划申请，该项目业主为桂林永兴投资有限公司及第三人市政管理处、穿山街道办，所涉的该规划用地原为原告申请新建施家园小学的规划用地；（2）根据桂林市城区中小学教育设施布局调整规划（2007-2015），施家园小学已取消；（3）2009年规划选址意见书发放登记表、2009年规划定点批复发放登记表，不能证明被告在核发市规建管（2009）194号、市规建选（2009）16号文时都已经抄送给原告；（4）《桂林市人民政府常务会议决定事项通知》（第101号）、《关于桂林市市政公用事业管理局穿山桥系统改造工程建设工程规划顶点的批复》（市建规管（2008）343号），证明穿山桥系统改造工程启动。原告提供的证据包括：1、《关于新建施家园小学的申请报告》复印件，证明2002年元月22日，原告就新建施家园小学向桂林市计委和桂林市教育局申请立项，2月4日，桂林市教育局同意原告申请；2、《关于施家园小学立项的批复》（市计社字（2002）5号）复印件，证明2002年2月10日，桂林市发展计划委员会同意原告新建施家园小学工程立项；3、《关于凌风高级中学新建施家园小学的建设用地规划定点通知书》（市规管字（2002）86号），证明2002年3月6日，桂林市建规委同意原告新建施家园小学建设用地规划定点；4、《关于桂林凌风高级中学新建施家园小学建设用地预审的复函》（市国土资函（2003）12号）复印件，证明2003年4月29日，桂林市国土局同意通过原告新建施家园小学建设用地的预审；5、《关于桂林凌风高级中学新建施家园小学的建设用地规划定点通知书》（市规管字（2003）292号），证明2003年6月5日，桂林市建规委同意原告施家园小区内，按市规划设计院规划位置及要求新建施家园小学；6、《委托书》（征（2003）10号）、《委托征地协议书》复印件、缴费收据，以上证据证明原告委托桂林市地产公司土地征用处就讼争土地进行征用，并向相关部门缴纳了征地管理费、征地劳务费、耕地开垦费等费用；7、《桂林市人民政府征用土地公告》复印件，证明2003年12月26日，桂林市政府启动原告新建施家园小学建设用地征用工作；8、《关于调整市规建管字（2003）292号文的规划定点通知书》（市建规管（2004）85号），证明2004年3月9日，桂林市规建委对原告施家园小学建设用地规划定点进行了调整，调整后的建筑面积为13086平方米；9、《关于七星区人民政府要求取消凌风小学规划用地有关问题复函》（市建规办（2005）49号）复印件，证明桂林市建设与规划委员会于2005年3月8日答复桂林市七星区人民政府不宜取消凌风小学规划用地；10、《关于延长市建规管（2004）85号文有效期限的批复》（市建规管（2006）237号）、《关于延长市建规管（2004）85号文有效期限的批复》（市建规管（2007）268号），以上证据证明市建规管（2004）85号文经批准延长使用至2008年5月止；11、《关于桂林市穿山桥改造农民回建安置综合楼建设用地规划定点的批复》（市规管建（2009）194号），证明2009年6月9日，桂林市建规委将原告施家园小学建设用地变更给第三人市政管理处，用于建设农民回建安置综合楼；12、《关于穿山桥系统改造工程农民回建安置地等有关问题会议纪要》（市政办阅（2009）50号）复印件，证明：（1）该会议没有原告参加；（2）会议纪要上两次提及市建规管（2004）85号文的有效期至2007年5月；13、《关于调整市规建管（2009）194号文农民回建安置2#楼规划定点的批复》（市规管（2010）181号），证明2010年7月6日，被告对市规建管（2009）194号穿山桥系统改造工程农民回建安置2#楼的规划定点进行了调整；14、《关于桂林市穿山桥改造工程农民回建安置房及施家园9组集体经济发展用地建设用地规划定点的批复》（市规管（2011）114号），证明2011年6月1日，被告对桂林市穿山桥改造工程农民回建安置房以及施家园9组集体经济发展用地、建设用地，提出具体规划设计要求；15、《关于调整穿山桥系统改造工程回建安置房项目业主的通知》（市规管（2011）204号），证明2011年9月9日，被告将穿山桥系统改造工程回建安置项目业主由桂林市市政工程管理处，调整为第三人穿山街道办、市政管理处及桂林永兴投资有限公司三家单位；16、《建设行政许可听证会通知书》，证明2011年10月28号，被告通知原告参加建设行政许可听证会；17、建设用地规划许可证（地字第450301201100046号）复印件、建设工程规划许可证（建字第450301201100491号）复印件，证明被告分别于2011年11月11日、11月30日向第三人市政管理处、穿山街道办及桂林永兴投资有限公司颁发许可证，许可其建造穿山系统改造工程回建安置房2#楼、农民回建安置综合楼；18、桂林市商业银行进账单，证明原告向广西国土资源厅缴纳375090元。第三人市政管理处提供的证据包括：（2012）星民初第1343号民事判决书、（2013）桂市民一终字第220号民事判决书，证明第三人市政管理处与桂林市七星区穿山街道办事处穿山村委会第九村民小组签订的征地协议书合法有效；2、《关于穿山桥系统改造工程项目建议书的批复》（市发改投资字（2008）105号）复印件、《关于桂林市市政公用事业管理局穿山桥系统改造工程建设工程规划定点的批复》（市建规管（2008）343号）复印件、《关于申请穿山桥系统改造工程项目立项的函》（市政公用函（2008）73号）、穿山桥规划平面图、穿山桥整体装饰效果图，证明穿山桥改造工程的批复时间晚于原告的市建规管（2004）85号规划定点文的最后有效期限。本院调取的证据：桂林市教育局的复函及附件，证明《桂林市城区中小学教育设施布局调整规划（2007-2015）》已于2008年8月经桂林市人民政府批复实施，施家园小学未列入七星区新建小学规划。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >综合全案证据，本院认定如下事实：</font>2002年元月22日，原告就新建施家园小学向桂林市计委和桂林市教育局申请立项，2月4日，桂林市教育局同意原告申请；2月10日，桂林市发展计划委员会作出《关于施家园小学立项的批复》（市计社字（2002）5号），同意原告新建施家园小学工程立项。3月6日，桂林市建规委向原告下达《关于桂林凌风高级中学新建施家园小学的建设用地规划定点通知书》（市规管字（2002）86号），同意原告在施家园路以东，按市规划设计院设计的2001—153号“施家园小学校园规划总平面”小学用地规划位置，新建施家园小学。2003年4月29日，桂林市国土资源局向原告下达《关于桂林凌风高级中学新建施家园小学建设用地预审的复函》（市国土资函（2003）12号），同意通过用地预审。6月5日，桂林市建规委再次下达《关于桂林凌风高中新建施家园小学的建设用地规划定点通知书》（市规管字（2003）292号），同意原告新建施家园小学。6月17日，原告与桂林市地产公司土地征用处签订了《委托征地协议书》，并按规定向相关部门交纳了征地管理费、征地劳务费、耕地开垦费、鱼塘菜地开发基金、耕地占用税、新增建设用地有偿使用费等费用。12月26日，桂林市人民政府发布《征用土地公告》，启动桂林市2003年第六批城市建设用地征用工作，被征地包括本案讼争地块。2004年3月9日，桂林市建规委下达《关于调整市规管字（2003）292号文的规划定点通知书》（市建规管（2004）85号），对原告施家园小学建设用地规划定点进行了调整，调整后的建筑面积为13086平方米（其中：农民回建房为2250平方米，并不能挪作他用）。截至本案庭审辩论终结前，原告未与讼争地块农民签订征地协议。2005年3月8日，桂林市建规委下达《关于七星区人民政府要求取消凌风小学规划用地有关问题复函》（市建规办（2005）49号），答复桂林市七星区人民政府不宜取消凌风小学规划用地。后，桂林市建规委分别于2006年5月23日下达《关于延长市建规管（2004）85号文有效期限的批复》（市建规管（2006）237号）、于2007年6月8日下达《关于延长市建规管（2004）85号文有效期限的批复》（市建规管（2007）268号），两次批准延长市建规管（2004）85号文的使用期限，最后使用期限至2008年5月止。原告自述曾于2008年3月份向被告提交延长上述85号文有效期限的申请但被被告拒收。被告自行记录的高新分局收文本（2008）内未见原告申请记录。2008年8月，桂林市桂林市人民政府批复实施《桂林市城区中小学教育设施布局调整规划（2007-2015）》，在该《规划》中，施家园小学未列入七星区新建小学规划。2009年1月7日，桂林市市政公用事业管理局向桂林市建规委申请“将穿山桥西北匝道边约11000平方米的地块作为被拆迁农民的回建地”，2009年3月18日，桂林市规划建设委员会向七星区人民政府、穿山桥系统改造工程指挥部作出《关于穿山桥改造工程项目农民搬迁安置及发展用地的选址意见书》（市规建选（2009）16号），选“施家园内，漓江航运公司宿舍北侧地块选址为穿山桥改造工程项目的农民搬迁安置和发展使用”；并列明“原凌风高中在此地块兴建施家园小学事宜，按照桂林市城区小学教育设施布局调整规划（2007-2015），该小学已取消”。2009年6月9日，桂林市规划建设委员会向第三人市政管理处作出《关于桂林市穿山桥系统改造工程农民回建安置综合楼建设用地规划定点的批复》（市规建管（2009）194号），同意在施家园路以东，漓江航运公司宿舍北侧位置新建农民回建安置综合楼。根据被告提交的《2009年规划选址意见书发放登记表》、《2009年规划定点批复发放登记表》，上述市规建选（2009）16号、市规建管（2009）194号文件未见送达给原告的记录。2009年8月27日，桂林市人民政府办公室形成《关于穿山桥系统改造工程农民回建安置地等有关问题会议纪要》（市政办阅（2009）50号），其上两次提及原告的定点批复有效期经延期后至2007年5月，被告工作人员列席该会议。2010年5月17日，第三人市政管理处与桂林市七星区穿山村委第九村民小组签订了征地协议书，讼争地块已被征用在建农民回迁安置房。2010年7月6日，被告向第三人市政管理处作出《关于桂林市市政工程管理处调整市规建管（2009）194号穿山桥系统改造工程农民回建安置2#楼规划定点的批复》（市规管（2010）181号），对2009年6月9日的194号文作出调整。2011年6月1日，被告向第三人穿山街道办作出《关于桂林市穿山桥改造工程农民回建安置房及施家园9组集体经济发展用地建设用地规划定点的批复》（市规管（2011）114号），同意“在施家园路以东，漓江航运公司宿舍北侧”新建农民回建安置综合楼，同时规定原市规建管（2009）194号、市规管（2010）181号文同时废止。2011年9月9日，被告向桂林永兴投资有限公司及第三人市政管理处、穿山街道办下达《关于调整穿山桥系统改造工程回建安置房项目业主的通知》（市规管（2011）204号），将穿山桥系统改造工程回建安置房项目业主由第三人市政管理处调整为上述三家单位。2011年10月28日，原告收到被告的《建设行政许可听证通知书》，参加了2011年11月8日下午3：30举行的调整农民回建安置房项目业主事项的听证会。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >本院认为，本案的争议焦点为：一、原告的起诉是否已过起诉期限；二、被诉具体行政行为是否合法。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >关于争议焦点一：公民、法人或者其他组织直接向人民法院提起诉讼的，应当在知道作出具体行政行为之日起三个月内提出。公民、法人或者其他组织不知道行政机关作出的具体行政行为内容的，其起诉期限从知道或者应当知道该具体行政行为内容之日起计算。对涉及不动产的具体行政行为从作出之日起超过</font>20年、其他具体行政行为从作出之日起超过5年提起诉讼的，人民法院不予受理。本案中，原桂林市规划建设委员会于2009年3月18日向七星区人民政府、穿山桥系统改造工程指挥部作出市规建选（2009）16号意见书，后又分别于2009年6月9向第三人市政管理处作出市规建管（2009）194号文、于2010年7月6日作出市规管（2010）181号文；2011年6月1日，被告又向第三人穿山街道办作出市规管（2011）114号文；被告并未提交上述文件均已送达给原告的证据；被告辩称原桂林市规划建设委员会在核发上述16号文及194号文时已抄送给原告，而原告就此未在法定期限内提起行政复议和行政诉讼，故其起诉已过起诉期限的意见，本院不予采纳；对第三人市政管理处、穿山街道办认为原告参加了2011年11月8日由被告主持的调整农民回建安置房项目业主事项的听证会，原告已经知道讼争土地被重新规划的事实但未及时提出异议，已超过起诉期限的意见，因第三人及被告未提供证据证明听证会上原告已被充分告知本案被诉具体行政行为的内容及其提起诉讼的权利，故对此意见本院不予采纳。综上所述，原告于2013年11月1日向本院提起行政诉讼，要求撤销被告作出的前述194号文、181号文、114号文及204号文，并未超过法定起诉期限。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >关于争议焦点二：行政许可有效期届满未延续的，行政机关应当依法办理有关行政许可的注销手续。本案中，原告自述其曾于</font>2008年3月份向被告提交了延期申请遭拒收，后被告未就前述85号文是否批复延期给予答复，原告主张因被告逾期未作决定，应视为其准予延续，故前述85号规划定点文继续有效；被告对此不予认可，并提交2008年高新区收文本作为证据证明收文本上没有原告的申请记录，辩称根据《广西壮族自治区实施&lt;；中华人民共和国城市规划法&gt;；办法（修正）》第36条之规定，原告未就前述85号规划定点文申请延期，故该文已于2008年5月期满，且依照《桂林市城区中小学教育设施布局调整规划（2007—2015）》，施家园小学已取消，故被告根据桂林市市政公用事业管理局提交的《关于农房拆迁回建选址的申请》、市发改委于2008年9月10日下发的《关于穿山桥系统改造工程项目建议书的批复》（市发改投资字（2008）105号），及根据《中华人民共和国城乡规划法》第三十六条、第三十七条的规定先后作出前述194号文、181号文、114号文及204号文之行为是合法的。因被告提交的2008年高新区收文本系由其单方制作，不足以证明原告未就前述85号文提交过延期申请，且原告为征用讼争土地向相关部门支付了巨额费用，并与桂林市地产公司土地征用处签订了《委托征地协议书》，该合同至今未解除，原告投入的巨额费用至今未经清算返还，原告无视定点文期满而不采取任何措施，与常理不符，被告称原告逾期未就前述85号文申请延期之意见，缺乏必要证据；另，《中华人民共和国城乡规划法》自2008年1月1日起施行，《中华人民共和国城市规划法》已于同时废止，被告称根据《广西壮族自治区实施&lt;；中华人民共和国城市规划法&gt;；办法（修正）》第36条之规定，前述85号文因期满而自行失效之意见，依据不足。依照《中华人民共和国行政许可法》第七十条的规定，行政许可有效期满未延续的，行政机关应当依法办理有关行政许可的注销手续。被告未先行作出对前述85号文的注销手续的情况下即就讼争地块作出新的行政许可之行为违反法律规定。依照《中华人民共和国行政许可法》第四十七条的规定，行政许可直接涉及申请人与他人之间重大利益关系的，行政机关在作出行政许可决定前，应当告知申请人、利害关系人享有要求听证的权利，而本案中被告作出的新的行政许可，直接涉及原告之重大利益，故被告依法应当在作出许可前告知原告享有要求听证的权利，但被告直至2011年10月才通知原告参加项目业主变更听证会，违反了法律规定。综上所述，被告的行为违反法律规定，被告作出的前述114号文、204号文（原桂林市规划建设委员会作出的前述194号文、181号文已废止）应予撤销；但因穿山桥改造工程农民回建安置房项目系本市重大民生工程，讼争土地已经第三人市政管理处与桂林市七星区穿山村委第九村民小组签订了征地协议书并被征用在建农民回迁安置房，撤销上述114号文、204号文将会给公共利益造成重大损失，故本院依法确认被告作出上述114号文、204号文的行为违法，并责令被告对上述114号文、204号文采取相应的补救措施以使其不失去法律效力。如原告因被告违法行为遭受损失，被告应予赔偿，由于原告并未在本案中提出要求被告赔偿之诉请，对此原告可另行起诉解决。综上所述，依照《中华人民共和国行政许可法》第八条、第四十七条、第七十条第（一）项、《中华人民共和国行政诉讼法》第五十四条第（二）项、《最高人民法院关于执行&lt;；中华人民共和国行政诉讼法&gt;；若干问题的解释》第四十二条、第五十八条之规定，判决如下：</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >一、被告桂林市规划局作出市规管（</font>2011）114号《关于桂林市穿山桥改造工程农民回建安置房及施家园9组集体经济发展用地建设用地规划定点的批复》及市规管（2011）204号《关于调整穿山桥系统改造工程回建安置房项目业主的通知》的行为违法；</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >二、被告桂林市规划局在法定期限内对上述具体行政行为采取相应的补救措施。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >本案收取受理费</font>50元（原告已预付本院），由被告负担。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >上述义务，由义务人于法定期限内履行完毕。如果未按本判决指定的期间履行义务，人民法院可按照《中华人民共和国行政诉讼法》第六十五条之规定采取措施。权利人可在本案生效判决规定的履行期限的最后一日起</font>180日内，向本院申请执行。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.5000pt;margin-right:0.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;text-indent:30.0000pt;mso-pagination:widow-orphan;
+text-align:left;line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >如不服本判决，可在判决书送达之日起十五日内，向本院或桂林市中级人民法院递交上诉状，并按对方当事人的人数提出副本，同时预交上诉案件受理费</font>50元（收款单位：桂林市中级人民法院，帐号：20216301040001416，开户行：桂林农行高新支行），上诉于桂林市中级人民法院。递交上诉状后七天内未预交上诉费的，按自动撤回上诉处理，本判决即发生法律效力。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=right  style="margin-top:0.5000pt;margin-right:36.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;mso-pagination:widow-orphan;text-align:right;
+line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >审　判　长　　廖　诺</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=right  style="margin-top:0.5000pt;margin-right:36.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;mso-pagination:widow-orphan;text-align:right;
+line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >人民陪审员　　丁建英</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=right  style="margin-top:0.5000pt;margin-right:36.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;mso-pagination:widow-orphan;text-align:right;
+line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >人民陪审员　　杨秀爱</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=right  style="margin-top:0.5000pt;margin-right:36.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;mso-pagination:widow-orphan;text-align:right;
+line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >二〇一四年十一月二十六日</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=right  style="margin-top:0.5000pt;margin-right:36.0000pt;margin-bottom:0.5000pt;
+margin-left:0.0000pt;mso-pagination:widow-orphan;text-align:right;
+line-height:25.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >书　记　员　　杨　丹</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></div><!--EndFragment--></body></html>
